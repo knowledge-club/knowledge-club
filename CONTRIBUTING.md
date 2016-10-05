@@ -1,3 +1,5 @@
+# Contribution Guidelines
+
 Did you like this content and want to contribute? We'd love your help! This way we'll be able to build a really relevant content, which is not only useful to beginners but for everyone!
 
 Our targets are:
