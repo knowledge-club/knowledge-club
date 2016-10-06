@@ -18,7 +18,7 @@ And so on...
 
 This repo is intended to deal with internal matters, such as: Standards, suggestions, quotes, doubts, questions, complains and __everything related to the organization itself *OR* all of the repositories contained here__.
 
-For topic-specific questions open an issue ou PR directly into the repository in question.
+For topic-specific questions open an issue or PR directly into the repository in question.
 
 ## How can I help?
 
