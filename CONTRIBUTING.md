@@ -32,4 +32,6 @@ That is, when you contribute with a new command
 1. Create a file for the command, i.e. ```rm.md```.
 2. Open a Pull Request with the title "[New] your-command"
 
-That's it! Easy isn't it?
+> If you experience difficulties, try looking to other repositories which have already been created, all repositories must follow the same structure
+
+That's it! Easy, isn't it?
